@@ -29,19 +29,23 @@ Especialista en backend, frontend y apps móviles.
 
 ---
 
+
 ## 💼 Proyectos destacados
 
-- **Flutter App**  
-Aplicación móvil multiplataforma con Flutter y Dart que ofrece [breve descripción].
+### 🏪 Almacenes Jair - Sistema de ventas multiplataforma  
+✅ Facturación electrónica integrada con código QR  
+📦 Gestión completa de inventario y stock  
+📈 Visualización de ventas por fecha y reportes estadísticos  
+💰 Contabilidad completa de ventas, compras y precios  
+📲 Envío automático de mensajes y notificaciones a clientes y empleados  
+🔐 Seguridad con autenticación Firebase  
+🌐 Disponible para web y apps móviles
 
-- **API con Node.js y MongoDB**  
-Backend escalable para [breve descripción].
+### 📢 Sistema de notificaciones para cooperativa SAC  
+📅 Envía mensajes SMS y WhatsApp automáticos a socios  
+💰 Recordatorios de cuotas con montos y fechas exactas  
+📱 Comunicación directa y eficiente para mejorar el cobro y la gestión  
 
-- **Sitio web con JavaScript y PHP**  
-Frontend dinámico y backend en PHP para [breve descripción].
-
-- **App móvil con React Native**  
-Desarrollo de apps nativas multiplataforma con React Native para [breve descripción].
 
 ---
 
