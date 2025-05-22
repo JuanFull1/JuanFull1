@@ -4,7 +4,7 @@
 [![Correo](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:juantoa.75@gmail.com)](mailto:juantoa.75@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/JuanFull1)](https://github.com/JuanFull1)
 
-## 🚀 Sobre mí  
+## 🧑‍💻 Te cuento algo de mi   
 Soy desarrollador **Full Stack** apasionado por crear soluciones eficientes y escalables.  
 Especialista en backend, frontend y apps móviles.
 
@@ -48,12 +48,6 @@ Especialista en backend, frontend y apps móviles.
 ---
 
 ## 📧 Contacto por correo
-
-Haz clic en el botón de Gmail para abrir tu programa de correo predeterminado con mi dirección lista para enviar.
-
-**Nota:** Para que funcione correctamente, debes tener configurado un cliente de correo predeterminado (Outlook, Mail, Thunderbird, Gmail en navegador, etc.).  
-
-Si al hacer clic no pasa nada, puedes copiar mi correo manualmente:  
 
 juantoa.75@gmail.com
 
