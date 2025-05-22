@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Juan Toalombo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/juan-toalombo-665351343)](https://linkedin.com/in/juan-toalombo-665351343)  
-[![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:juantoa.75@gmail.com)](mailto:juantoa.75@gmail.com)  
+[![Correo](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:juantoa.75@gmail.com)](mailto:juantoa.75@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/JuanFull1)](https://github.com/JuanFull1)
 
 ## 🚀 Sobre mí  
@@ -29,7 +29,6 @@ Especialista en backend, frontend y apps móviles.
 
 ---
 
-
 ## 💼 Proyectos destacados
 
 ### 🏪 Almacenes Jair - Sistema de ventas multiplataforma  
@@ -46,6 +45,20 @@ Especialista en backend, frontend y apps móviles.
 💰 Recordatorios de cuotas con montos y fechas exactas  
 📱 Comunicación directa y eficiente para mejorar el cobro y la gestión  
 
+---
+
+## 📧 Contacto por correo
+
+Haz clic en el botón de Gmail para abrir tu programa de correo predeterminado con mi dirección lista para enviar.
+
+**Nota:** Para que funcione correctamente, debes tener configurado un cliente de correo predeterminado (Outlook, Mail, Thunderbird, Gmail en navegador, etc.).  
+
+Si al hacer clic no pasa nada, puedes copiar mi correo manualmente:  
+
+juantoa.75@gmail.com
+
+yaml
+Copiar
 
 ---
 
