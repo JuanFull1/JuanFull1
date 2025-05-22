@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan Toalombo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/tuusuario)](https://linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-toalombo-665351343/)
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:tuemail@example.com)](mailto:tuemail@example.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/JuanFull1)](https://github.com/JuanFull1)
 
@@ -64,7 +64,7 @@ Desarrollo de apps nativas multiplataforma con React Native para [breve descripc
 
 ## 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/tuusuario)](https://linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-toalombo-665351343/)  
 [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:tuemail@example.com)](mailto:tuemail@example.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/JuanFull1)](https://github.com/JuanFull1)
 
