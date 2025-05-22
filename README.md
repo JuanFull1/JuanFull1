@@ -57,9 +57,5 @@ Si al hacer clic no pasa nada, puedes copiar mi correo manualmente:
 
 juantoa.75@gmail.com
 
-yaml
-Copiar
-
----
 
 ¡Gracias por visitar mi perfil! 🚀
