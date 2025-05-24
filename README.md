@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/JuanFull1)](https://github.com/JuanFull1)
 
 ## 🧑‍💻 Te cuento algo de mi   
-Soy desarrollador **Full Stack** apasionado por crear soluciones eficientes y escalables.  
+Soy desarrollador apasionado por crear soluciones eficientes y escalables.  
 Especialista en backend, frontend y apps móviles.
 
 ---
